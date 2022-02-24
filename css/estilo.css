@@ -1,7 +1,12 @@
 body
 {
+<<<<<<< HEAD
     background:#1e1f24;
     color: white;
+=======
+    background: #1e1f24 ;
+    color: #333;
+>>>>>>> header
     text-align: center;   
     font-family: "arial";
     font-size: 16px;
@@ -59,3 +64,8 @@ body
         padding: 0.5em;
         
     }
+    #post
+{
+    background: white;
+    padding: 1em;
+}
