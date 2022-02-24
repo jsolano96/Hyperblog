@@ -1,6 +1,6 @@
 body
 {
-    background:#1e1f24;
+    background: #1e1f24 ;
     color: #333;
     text-align: center;   
     font-family: "arial";
@@ -51,8 +51,16 @@ body
       font-size: 20px;  
     }
 
-    #post
+    #footer
     {
-        background: white;
-        padding: 1em;
+        background: #777;
+        color: white;
+        text-align: center;
+        padding: 0.5em;
+        
     }
+    #post
+{
+    background: white;
+    padding: 1em;
+}
